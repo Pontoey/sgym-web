@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/2bcff8eb-6d81-4029-8f2c-ee8d5f628072/resourceGroups/DefaultResourceGroup-SEA/providers/Microsoft.Web/sites/SGym",
+    "appService.deploySubpath": "."
+}

@@ -1,0 +1,54 @@
+/* icon */
+.icon-size{
+    font-size: 100px; 
+    color: #f15a24; 
+    
+}
+
+.benefit{
+   width: 70%; 
+   margin-left: 80px; 
+}
+
+/* ้home-login */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width: 1200px){
+    .icon-size{
+        margin-left: 160px;
+    }
+    .benefit{
+        width: 100%; 
+        ;
+        
+     }
+     .ms-5{
+        margin-left: 0rem!important;
+        margin-right: 4rem!important;
+     }
+     
+}
+
+@media(max-width: 450px){
+    .icon-size{
+        margin-left: 130px;
+    }
+}
